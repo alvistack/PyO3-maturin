@@ -14,3 +14,8 @@ tags
 test-crates/wheels/
 test-crates/targets/
 test-crates/venvs/
+node_modules
+.idea
+.pybuild/
+.cargo/
+vendor/
