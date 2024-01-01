@@ -16,3 +16,6 @@ test-crates/wheels/
 test-crates/targets/
 test-crates/venvs/
 node_modules
+.pybuild/
+.cargo/
+vendor/
