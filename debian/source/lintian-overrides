@@ -1,0 +1,5 @@
+python-maturin source: file-without-copyright-information
+python-maturin source: no-debian-changes
+python-maturin source: source-contains-prebuilt-windows-binary
+python-maturin source: source-is-missing
+python-maturin source: source-package-encodes-python-version
