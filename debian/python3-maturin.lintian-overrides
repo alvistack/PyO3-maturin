@@ -1,0 +1,4 @@
+python3-maturin: copyright-without-copyright-notice
+python3-maturin: initial-upload-closes-no-bugs
+python3-maturin: no-manual-page
+python3-maturin: zero-byte-file-in-doc-directory
