@@ -1,0 +1,5 @@
+python-maturin (100:1.12.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyO3/maturin/releases/tag/v1.12.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 20 Feb 2026 00:12:03 +0800
